@@ -60,7 +60,7 @@ project-root/
 8. Switched back to `main` and merged `sajan_branch`  
 9. Pushed final merged code to the remote repository
 
-## 🔧 Development Workflow by teammate Sajan Ray
+## 🔧 Development Workflow by teammate Deoraj Gope
 
 1. Forked the original repository to my GitHub account
 2. Cloned the forked repository locally
@@ -103,6 +103,7 @@ cd git_assignment
 - `git push origin branch_name`
 - `git merge branch_name`
 - `git status`
+- `git branch branch_name`
 
 ---
 
