@@ -12,7 +12,7 @@ Demonstrating Git workflow with frontend and backend development using proper br
 
 ## 👤 Team Members
 - Sajan Jwala Ray
-- Devraj Gope
+- Deoraj Gope
 
 ---
 
@@ -44,10 +44,11 @@ project-root/
 
 - `main` – Main production branch
 - `sajan_branch` – Development branch for implementing frontend and backend code
+- `deoraj_branch` - Development branch for implementing frontend code
 
 ---
 
-## 🔧 Development Workflow
+## 🔧 Development Workflow by teammate Sajan Jwala Ray
 
 1. Cloned the GitHub repository  
 2. Created project folder and subfolders: `frontend/` and `backend/`  
@@ -58,6 +59,17 @@ project-root/
 7. Committed changes with proper message  
 8. Switched back to `main` and merged `sajan_branch`  
 9. Pushed final merged code to the remote repository
+
+## 🔧 Development Workflow by teammate Sajan Ray
+
+1. Forked the original repository to my GitHub account
+2. Cloned the forked repository locally
+3. Created a new branch named `deoraj_branch`
+4. Made code changes in index.html file
+5. Committed changes
+6. Pushed my branch to my forked remote repository
+7. Created a Pull Request to the original repository of my teammate for review and merge
+8. Pull request merged successfully
 
 ---
 
@@ -94,7 +106,7 @@ cd git_assignment
 
 ---
 
-## ✅ Steps Followed
+## ✅ Steps Followed by Teammate Sajan Jwala Ray
 
 1. Cloned the repository
 2. Created folder structure: `Team_MCA/frontend` and `Team_MCA/backend`
@@ -105,3 +117,14 @@ cd git_assignment
 7. Committed code files
 8. Merged `sajan_branch` into `main`
 9. Pushed final version to remote repository
+
+## ✅ Steps Followed by Teammate Deoraj Gope
+
+1. Forked the original repository to my GitHub account
+2. Cloned the forked repository locally
+3. Created a new branch named `deoraj_branch`
+4. Made code changes in index.html file
+5. Committed changes
+6. Pushed my branch to my forked remote repository
+7. Created a Pull Request to the original repository of my teammate for review and merge
+8. Pull request merged successfully
